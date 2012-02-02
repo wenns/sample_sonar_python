@@ -1,1 +1,1 @@
-distionary = {}
+dictionary = {}
